@@ -1,4 +1,4 @@
-<h1 align="center">Hola mundo, soy Aaron Santos</h1>
+<h1 align="center">Hola mundo</h1>
 <h3 align="center">Un joven en proceso de ser programador full stack</h3>
 
 - 🌱 Actualmente estoy aprendiendo todo lo que tiene que ver con el desarrollo full stack
